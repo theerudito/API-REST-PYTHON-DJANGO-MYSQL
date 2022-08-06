@@ -1,8 +1,5 @@
 API REST DJANGO MYSQL
-<<<<<<< HEAD
 
-=======
->>>>>>> 6f8e34e106a299bd03ca4331d8749a3fa49b97ca
 
 STEP 1.- create a enviroment with virtualenv
 
@@ -20,11 +17,9 @@ STEP 7.- configure the database in settings.py  in DATABASES
 
 STEP 8.- in file models.py create a model
 
-<<<<<<< HEAD
 STEP 9.- in file panel admin admin.py register your model 
-=======
+
 STEP 9.- in file panel admin admin.py register your model
->>>>>>> 6f8e34e106a299bd03ca4331d8749a3fa49b97ca
 
 STEP 10.- inside the mysite execute command python manage.py migrate
 
@@ -34,11 +29,9 @@ STEP 12.- migrate the model execute command python manage.py makemigrations
 
 STEP 13.- migrate the model execute command python manage.py migrate
 
-<<<<<<< HEAD
 STEP 14.- execute the project execute command python manage.py runserver
-=======
+
 STEP 14.- eject the project execute command python manage.py runserver
->>>>>>> 6f8e34e106a299bd03ca4331d8749a3fa49b97ca
 
 STEP 15.- create a new file inside the app folder with the name urls.py
 
@@ -54,7 +47,4 @@ STEP 20.- using all the methods example get, post, put, delete
 
 STEP 21.- good luck
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 6f8e34e106a299bd03ca4331d8749a3fa49b97ca
