@@ -1,6 +1,4 @@
 API REST DJANGO MYSQL
-[]: # Language: markdown
-[]: # Path: README.md
 
 STEP 1.- create a enviroment with virtualenv
 STEP 2.- install django
@@ -23,6 +21,3 @@ STEP 18.- in the file views.py import the model Example Company
 STEP 19.- with postman or another app you can using the url http://127.0.0.1:8000/app/companies/
 STEP 20.- using all the methods example get, post, put, delete
 STEP 21.- good luck
-
-[]: # Language: python
-[]: # Path: mysite/urls.py
