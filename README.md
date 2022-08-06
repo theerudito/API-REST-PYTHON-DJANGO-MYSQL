@@ -31,7 +31,7 @@ STEP 13.- migrate the model execute command python manage.py migrate
 
 STEP 14.- execute the project execute command python manage.py runserver
 
-STEP 14.- eject the project execute command python manage.py runserver
+STEP 14.- execute the project execute command python manage.py runserver
 
 STEP 15.- create a new file inside the app folder with the name urls.py
 
