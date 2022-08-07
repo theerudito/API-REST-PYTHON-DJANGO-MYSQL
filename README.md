@@ -17,9 +17,7 @@ STEP 7.- configure the database in settings.py  in DATABASES
 
 STEP 8.- in file models.py create a model
 
-STEP 9.- in file panel admin admin.py register your model 
-
-STEP 9.- in file panel admin admin.py register your model
+STEP 9.- in file panel admin admin.py register your model Example Company
 
 STEP 10.- inside the mysite execute command python manage.py migrate
 
