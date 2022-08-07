@@ -5,9 +5,9 @@ STEP 1.- create a new environment in Python (virtualenv) example python3 -m venv
 
 STEP 2.- install django
 
-STEP 3.- create a project with command django-admin startproject mysite
+STEP 3.- create a project with command python django-admin startproject mysite
 
-STEP 4.- create a new folder with command django-admin startapp app
+STEP 4.- create a new folder with command python manage.py startapp app 
 
 STEP 5.- configure the proyect in settings.py
 
