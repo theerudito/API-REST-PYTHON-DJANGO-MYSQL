@@ -1,7 +1,7 @@
 API REST DJANGO MYSQL
 
 
-STEP 1.- create a enviroment with virtualenv
+STEP 1.- create a new environment in Python (virtualenv) example python3 -m venv tutorial-env
 
 STEP 2.- install django
 
